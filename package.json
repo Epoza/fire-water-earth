@@ -2,11 +2,11 @@
   "name": "fire-water-earth",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "build-css": "tailwindcss -i ./src/input.css -o ./public/style.css --watch"
   },
-  "author": "",
+  "author": "Epoza",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.4.0"
